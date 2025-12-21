@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Project specific
+sessions/
+downloads/
+tmp/
+data/
+tools/
+cookies/
+
+# Credentials
+firebase_credentials.json
+config.py
+.env
+
+# Logs
+*.log

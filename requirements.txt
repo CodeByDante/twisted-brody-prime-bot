@@ -1,0 +1,15 @@
+pyrogram
+tgcrypto
+yt-dlp @ git+https://github.com/yt-dlp/yt-dlp.git@master
+gallery-dl
+aiohttp
+requests
+deep_translator
+firebase_admin
+python-dotenv
+psutil
+ffmpeg-python
+img2pdf
+pycryptodome
+Pillow
+hachoir
